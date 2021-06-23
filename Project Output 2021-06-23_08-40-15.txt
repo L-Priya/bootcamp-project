@@ -1,0 +1,8 @@
+--------------------------------------------------Weather stats for - Neyveli  | |  23 Jun 2021 |  08 : 00 : 53 AM
+--------------------------------------------------
+Current Temperature is : 29 deg C
+Current weather desc     : cloudy
+Current Humidity           : 81 %
+Current wind speed        : 13 kmph
+
+Process finished with exit code 0
